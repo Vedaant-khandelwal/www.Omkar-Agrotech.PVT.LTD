@@ -1,16 +1,15 @@
-function onclick(1)
+function onclick()
 
 {
-      onclick= document.getElementById(join);
-    window.alert(phone.no=9422806350);  
+      onclick= window.alert(phone.no=9422806350);
 }
-function onclick(2)
+function onclick()
 {
-    onclick= document.getElementById(sell);
-    window.alert(phone.no=9422806350);'
+    onclick=  window.alert(phone.no=9422806350);
 }
-function onclick(3)
+function onclick()
 {
-    onclick= document.getElementById(buy;
-        window.alert(phone.no=9422806350); 
+    onclick= window.alert(phone.no=9422806350); 
 }
+        
+
